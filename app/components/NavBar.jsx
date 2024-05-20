@@ -34,7 +34,7 @@ const navItems = [
     {
         label: 'Best Practices',
         path: '/best-practices',
-        dataTest: 'nav-best-practice',
+        dataTest: 'nav-best-practices',
     },
 ]
 
